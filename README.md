@@ -1,4 +1,4 @@
-# DeepLearning
+# DeepLearning and CNN
 Summarize what I learned through Udacity
 
 ### 1.1 SimplePerceptronAlgorithm.py
