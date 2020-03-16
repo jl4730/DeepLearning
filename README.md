@@ -6,3 +6,6 @@ Classify a group of points with y is either 0 or 1 using perceptron algorithm
 
 ### 1.2 GradientDescent.ipynb
 Implement the gradient descent algorithm on the dataset with two classes
+
+### 1.3 StudentAdmissions.ipynb
+Put neural networks in practice by analyzing a dataset of student admissions at UCLA
