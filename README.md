@@ -12,3 +12,6 @@ Put neural networks in practice by analyzing a dataset of student admissions at 
 
 ### 1.4 StudentAdmissionsKeras
 Use Keras to train a simple model
+
+### 1.5 IMDB_In_Keras.ipynb
+Using Keras to analyze IMDB Movie Data
