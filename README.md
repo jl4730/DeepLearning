@@ -15,3 +15,8 @@ Use Keras to train a simple model
 
 ### 1.5 IMDB_In_Keras.ipynb
 Using Keras to analyze IMDB Movie Data
+
+### 1.6 Image Classifier Project
+Develop code for an image classifier built with PyTorch
+
+### 1.7 
