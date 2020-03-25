@@ -19,4 +19,5 @@ Using Keras to analyze IMDB Movie Data
 ### 1.6 Image Classifier Project
 Develop code for an image classifier built with PyTorch
 
-### 1.7 
+### 1.7 Image Classifier Project (Command Line)
+Convert 1.6 into a command line application.
