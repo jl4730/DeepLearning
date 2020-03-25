@@ -26,3 +26,6 @@ Train a new network on a data set with train.py: python train.py data_directory
 
 Predict flower name from an image with predict.py: python predict.py /path/to/image checkpoint
 
+### 2.1 mnist_mlp.ipynb
+Train an MLP to classify images from the MNIST database
+
