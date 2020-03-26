@@ -29,3 +29,5 @@ Predict flower name from an image with predict.py: python predict.py /path/to/im
 ### 2.1 mnist_mlp.ipynb
 Train an MLP to classify images from the MNIST database
 
+### 2.2 conv_visualization.ipynb
+Show what the CNN filters try to capture
