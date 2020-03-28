@@ -37,3 +37,5 @@ Train an MLP to classify images from the CIFAR-10 database
 
 ### 2.4 cifar10_augmentation.ipynb
 Train a CNN on augmented images from the CIFAR-10 database.
+
+Final project using CNN at: https://github.com/jl4730/DogBreed
