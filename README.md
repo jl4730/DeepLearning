@@ -34,3 +34,6 @@ Show what the CNN filters try to capture
 
 ### 2.3 cifar10_mlp.ipynb
 Train an MLP to classify images from the CIFAR-10 database
+
+### 2.4 cifar10_augmentation.ipynb
+Train a CNN on augmented images from the CIFAR-10 database.
