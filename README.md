@@ -1,5 +1,5 @@
 # DeepLearning and CNN
-Summarize what I learned through Udacity
+Summarize what I learned through Udacity. Medium post at https://medium.com/@jl4730/deep-learning-and-convolutional-neural-network-a6deb2983a41
 
 ### 1.1 SimplePerceptronAlgorithm.py
 Classify a group of points with y is either 0 or 1 using perceptron algorithm
