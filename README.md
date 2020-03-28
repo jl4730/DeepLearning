@@ -31,3 +31,6 @@ Train an MLP to classify images from the MNIST database
 
 ### 2.2 conv_visualization.ipynb
 Show what the CNN filters try to capture
+
+### 2.3 cifar10_mlp.ipynb
+Train an MLP to classify images from the CIFAR-10 database
